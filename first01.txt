@@ -11,4 +11,7 @@ git commit
 git rm
 
 gitのステータスを確認したいとき
-git starus
+git status
+
+ローカルにある状態とステージにある状態の差分を表示したいとき
+git diff
